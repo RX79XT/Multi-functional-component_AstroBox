@@ -1,0 +1,36 @@
+{
+  "item": {
+    "name": "多功能组件",
+    "description": "一个支持可编辑组件和浅暗色切换的表盘\n该版本仅为试用版 完整版请前往爱发电购买",
+    "preview": [
+      "png@1x.png",
+      "png2@1x.png"
+    ],
+    "icon": "icon.png",
+    "source_url": "",
+    "author": [
+      {
+        "name": "RX79XT",
+        "author_url": "https://www.bandbbs.cn/members/208026/"
+      }
+    ]
+  },
+  "downloads": {
+    "o62m": {
+      "version": "1.0.0",
+      "file_name": "o62m.bin"
+    },
+    "o62": {
+      "version": "1.0.0",
+      "file_name": "o62.bin"
+    },
+    "n62s": {
+      "version": "1.0.0",
+      "file_name": "n62s.bin"
+    },
+    "n66": {
+      "version": "1.0.0",
+      "file_name": "n66.bin"
+    }
+  }
+}
