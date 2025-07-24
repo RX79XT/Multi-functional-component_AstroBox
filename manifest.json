@@ -3,8 +3,8 @@
     "name": "多功能组件",
     "description": "一个支持可编辑组件和浅暗色切换的表盘\n该版本仅为试用版 完整版请前往爱发电购买",
     "preview": [
-      "png@1x.png",
-      "png2@1x.png"
+      "preview1@1x.png",
+      "preview2@1x.png"
     ],
     "icon": "icon.png",
     "source_url": "",
